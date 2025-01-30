@@ -21,43 +21,48 @@ Ensure you have the following installed:
 
 ---
 
-## 📥 Installation & Setup
+# 📥 Installation & Setup
 
-### **1️⃣ Clone the Repository**
+## **1️⃣ Clone the Repository**
+
+### Clone the repository
 ```bash
-# Clone the repository
 git clone https://github.com/gaganmandal7492/react-chat-app.git
 cd react-chat-app
 ```
-### **2️⃣ Backend Setup (Node.js + Express)**
-# Navigate to server directory
+## **2️⃣ Backend Setup (Node.js + Express)**
+### Navigate to server directory
 ```bash
 cd server
 ```
 
-# Install dependencies
+### Install dependencies
 ```bash
 npm install
 ```
-# Configure .env file in server
+### Configure .env file in server
    Create a .env file inside the server folder:
    ```bash
       MONGO_URI=mongodb+srv://your-username:your-password@cluster0.mongodb.net/chat
    ```
-#Start the server:
+### Start the server:
 ```bash
 npm start
 ```
 
-### 3️⃣ Frontend Setup (React + Vite)
+## 3️⃣ Frontend Setup (React + Vite)
 ```bash
-# Navigate to client directory
+### Navigate to client directory
 cd ../client
+```
 
-# Install dependencies
+### Install dependencies
+```bash
 npm install
+```
 
-# Start the development server
+### Start the development server
+```bash
 npm run dev
 ```
 
