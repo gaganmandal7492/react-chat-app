@@ -1,3 +1,11 @@
+**COMPANY**: CODTECH IT SOLUTIONS<br>
+**NAME**: Gagan Mandal<br>
+**INTERN**: CT08JWM<br>
+**DOMAIN**: React.js Web Development<br>
+**BATCH DURATION**: January 5th, 2025 to February 5th, 2025<br>
+**MENTOR NAME**: Neela Santhosh Kumar<br>
+
+
 # React Chat App 🚀
 
 A real-time chat application built with **React.js, Node.js, Express, and MongoDB**. This app allows users to send and receive messages in real time.
